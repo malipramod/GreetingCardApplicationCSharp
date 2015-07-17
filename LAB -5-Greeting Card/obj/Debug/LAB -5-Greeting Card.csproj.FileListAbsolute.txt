@@ -1,0 +1,51 @@
+c:\users\mypc\documents\visual studio 2013\Projects\LAB -5-Greeting Card\LAB -5-Greeting Card\bin\LAB -5-Greeting Card.dll.config
+c:\users\mypc\documents\visual studio 2013\Projects\LAB -5-Greeting Card\LAB -5-Greeting Card\bin\LAB -5-Greeting Card.dll
+c:\users\mypc\documents\visual studio 2013\Projects\LAB -5-Greeting Card\LAB -5-Greeting Card\bin\LAB -5-Greeting Card.pdb
+c:\users\mypc\documents\visual studio 2013\Projects\LAB -5-Greeting Card\LAB -5-Greeting Card\bin\Antlr3.Runtime.dll
+c:\users\mypc\documents\visual studio 2013\Projects\LAB -5-Greeting Card\LAB -5-Greeting Card\bin\AspNet.ScriptManager.bootstrap.dll
+c:\users\mypc\documents\visual studio 2013\Projects\LAB -5-Greeting Card\LAB -5-Greeting Card\bin\AspNet.ScriptManager.jQuery.dll
+c:\users\mypc\documents\visual studio 2013\Projects\LAB -5-Greeting Card\LAB -5-Greeting Card\bin\EntityFramework.dll
+c:\users\mypc\documents\visual studio 2013\Projects\LAB -5-Greeting Card\LAB -5-Greeting Card\bin\EntityFramework.SqlServer.dll
+c:\users\mypc\documents\visual studio 2013\Projects\LAB -5-Greeting Card\LAB -5-Greeting Card\bin\Microsoft.AspNet.FriendlyUrls.dll
+c:\users\mypc\documents\visual studio 2013\Projects\LAB -5-Greeting Card\LAB -5-Greeting Card\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\mypc\documents\visual studio 2013\Projects\LAB -5-Greeting Card\LAB -5-Greeting Card\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\mypc\documents\visual studio 2013\Projects\LAB -5-Greeting Card\LAB -5-Greeting Card\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\mypc\documents\visual studio 2013\Projects\LAB -5-Greeting Card\LAB -5-Greeting Card\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+c:\users\mypc\documents\visual studio 2013\Projects\LAB -5-Greeting Card\LAB -5-Greeting Card\bin\Microsoft.Owin.dll
+c:\users\mypc\documents\visual studio 2013\Projects\LAB -5-Greeting Card\LAB -5-Greeting Card\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\mypc\documents\visual studio 2013\Projects\LAB -5-Greeting Card\LAB -5-Greeting Card\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\mypc\documents\visual studio 2013\Projects\LAB -5-Greeting Card\LAB -5-Greeting Card\bin\Microsoft.Owin.Security.dll
+c:\users\mypc\documents\visual studio 2013\Projects\LAB -5-Greeting Card\LAB -5-Greeting Card\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\mypc\documents\visual studio 2013\Projects\LAB -5-Greeting Card\LAB -5-Greeting Card\bin\Microsoft.Owin.Security.Google.dll
+c:\users\mypc\documents\visual studio 2013\Projects\LAB -5-Greeting Card\LAB -5-Greeting Card\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\mypc\documents\visual studio 2013\Projects\LAB -5-Greeting Card\LAB -5-Greeting Card\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\mypc\documents\visual studio 2013\Projects\LAB -5-Greeting Card\LAB -5-Greeting Card\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\mypc\documents\visual studio 2013\Projects\LAB -5-Greeting Card\LAB -5-Greeting Card\bin\Microsoft.ScriptManager.MSAjax.dll
+c:\users\mypc\documents\visual studio 2013\Projects\LAB -5-Greeting Card\LAB -5-Greeting Card\bin\Microsoft.ScriptManager.WebForms.dll
+c:\users\mypc\documents\visual studio 2013\Projects\LAB -5-Greeting Card\LAB -5-Greeting Card\bin\Microsoft.Web.Infrastructure.dll
+c:\users\mypc\documents\visual studio 2013\Projects\LAB -5-Greeting Card\LAB -5-Greeting Card\bin\Newtonsoft.Json.dll
+c:\users\mypc\documents\visual studio 2013\Projects\LAB -5-Greeting Card\LAB -5-Greeting Card\bin\Owin.dll
+c:\users\mypc\documents\visual studio 2013\Projects\LAB -5-Greeting Card\LAB -5-Greeting Card\bin\System.Web.Optimization.dll
+c:\users\mypc\documents\visual studio 2013\Projects\LAB -5-Greeting Card\LAB -5-Greeting Card\bin\System.Web.Providers.dll
+c:\users\mypc\documents\visual studio 2013\Projects\LAB -5-Greeting Card\LAB -5-Greeting Card\bin\WebGrease.dll
+c:\users\mypc\documents\visual studio 2013\Projects\LAB -5-Greeting Card\LAB -5-Greeting Card\bin\System.Web.Optimization.xml
+c:\users\mypc\documents\visual studio 2013\Projects\LAB -5-Greeting Card\LAB -5-Greeting Card\bin\Antlr3.Runtime.pdb
+c:\users\mypc\documents\visual studio 2013\Projects\LAB -5-Greeting Card\LAB -5-Greeting Card\bin\Newtonsoft.Json.xml
+c:\users\mypc\documents\visual studio 2013\Projects\LAB -5-Greeting Card\LAB -5-Greeting Card\bin\Microsoft.AspNet.FriendlyUrls.xml
+c:\users\mypc\documents\visual studio 2013\Projects\LAB -5-Greeting Card\LAB -5-Greeting Card\bin\EntityFramework.xml
+c:\users\mypc\documents\visual studio 2013\Projects\LAB -5-Greeting Card\LAB -5-Greeting Card\bin\EntityFramework.SqlServer.xml
+c:\users\mypc\documents\visual studio 2013\Projects\LAB -5-Greeting Card\LAB -5-Greeting Card\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\mypc\documents\visual studio 2013\Projects\LAB -5-Greeting Card\LAB -5-Greeting Card\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\mypc\documents\visual studio 2013\Projects\LAB -5-Greeting Card\LAB -5-Greeting Card\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\mypc\documents\visual studio 2013\Projects\LAB -5-Greeting Card\LAB -5-Greeting Card\bin\Microsoft.Owin.xml
+c:\users\mypc\documents\visual studio 2013\Projects\LAB -5-Greeting Card\LAB -5-Greeting Card\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\mypc\documents\visual studio 2013\Projects\LAB -5-Greeting Card\LAB -5-Greeting Card\bin\Microsoft.Owin.Security.xml
+c:\users\mypc\documents\visual studio 2013\Projects\LAB -5-Greeting Card\LAB -5-Greeting Card\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\mypc\documents\visual studio 2013\Projects\LAB -5-Greeting Card\LAB -5-Greeting Card\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\mypc\documents\visual studio 2013\Projects\LAB -5-Greeting Card\LAB -5-Greeting Card\bin\Microsoft.Owin.Security.Google.xml
+c:\users\mypc\documents\visual studio 2013\Projects\LAB -5-Greeting Card\LAB -5-Greeting Card\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\mypc\documents\visual studio 2013\Projects\LAB -5-Greeting Card\LAB -5-Greeting Card\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\mypc\documents\visual studio 2013\Projects\LAB -5-Greeting Card\LAB -5-Greeting Card\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\mypc\documents\visual studio 2013\Projects\LAB -5-Greeting Card\LAB -5-Greeting Card\obj\Debug\LAB -5-Greeting Card.csprojResolveAssemblyReference.cache
+c:\users\mypc\documents\visual studio 2013\Projects\LAB -5-Greeting Card\LAB -5-Greeting Card\obj\Debug\LAB -5-Greeting Card.dll
+c:\users\mypc\documents\visual studio 2013\Projects\LAB -5-Greeting Card\LAB -5-Greeting Card\obj\Debug\LAB -5-Greeting Card.pdb
